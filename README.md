@@ -1,5 +1,3 @@
-## 👋 Hi, I'm an IT Student
-
 ## 👤 Who am I?
 I'm an IT student with a focus on **Data, AI, and IT Security**, currently building a strong foundation...
 
