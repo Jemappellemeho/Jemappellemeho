@@ -10,4 +10,3 @@ I'm an IT student with a focus on **Data, AI, and IT Security**, currently build
 
   ## 📫 How to reach me
 - GitHub: right here
-- Instagram linked 
