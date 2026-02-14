@@ -6,7 +6,6 @@ I'm an IT student with a focus on **Data, AI, and IT Security**, currently build
 ## 🚧 What am I currently working on?
 - University projects in software development and IT security
 - Learning fundamentals of DevOps, Data, and AI-related concepts
-- IT Security :)
 
 
   ## 📫 How to reach me
